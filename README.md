@@ -1,2 +1,2 @@
 # Face--and-eye-detect
-Face and detection using openCv and with haarcascade_file
+Face and detection using openCv with haarcascade_file
